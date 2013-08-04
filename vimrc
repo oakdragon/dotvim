@@ -37,7 +37,7 @@ let mapleader=","
 " =============== pathogen Initialization ===============
 " This loads all the plugins specified in ~/.vim/bundle/pathogen.vim 
 " Use pathogen plugin to manage all other plugins
-if filereadable(expand("~/.vim/bundle/pathogen.vim"))
+if filereadable(expand("~/.vim/bundle/pathogen/autoload/pathogen.vim"))
   source ~/.vim/bundle/pathogen/autoload/pathogen.vim
   call pathogen#infect()
 endif
