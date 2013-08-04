@@ -16,3 +16,6 @@
 [submodule "bundle/errormarker"]
 	path = bundle/errormarker
 	url = https://github.com/vim-scripts/errormarker.vim.git
+[submodule "bundle/applescript"]
+	path = bundle/applescript
+	url = https://github.com/vim-scripts/applescript.vim.git
