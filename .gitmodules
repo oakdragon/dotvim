@@ -25,3 +25,6 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/SourceExplorer"]
+	path = bundle/SourceExplorer
+	url = https://github.com/wesleyche/SrcExpl.git
